@@ -1,0 +1,17 @@
+/* 
+CONTENT : Text,images,table,video etc
+
+BORDER : A line around the element, still inside of the element
+
+PADDING : Invisible space around the content, inside of the element
+
+MARGIN : Space outside of the element, between elements
+
+FILL AREA: Area that gets filled with background color or background image
+
+
+
+FINAL ELEMENT WIDTH : left border + left padding + width + right border + right padding + right border
+
+FINAL ELEMENT HEIGHT = top border + top padding + height + bototm padding + bottom border
+*/

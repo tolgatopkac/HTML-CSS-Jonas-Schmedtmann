@@ -1,0 +1,25 @@
+.author {
+  font-style: italic;
+  font-size: 18px;
+}
+
+#author-text {
+  font-size: 20px;
+}
+
+p,
+li {
+  font-family: sans-serif;
+  color: #444444;
+  font-size: 22px;
+}
+
+/* #THEORY#1 NOTES
+Bir html elementi birden fazla kez biçimlendirildiyse en özel olanı aktif olur.  
+
+ birden fazla kez id ile biçimlendirildiyse en son biçimlendirilen id geçerli olur !
+
+
+id(#) > class(.) or pseudo-class (:)  > element selector (p, div, li etc.) > universal selector(*)
+
+*/

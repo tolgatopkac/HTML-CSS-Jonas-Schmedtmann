@@ -1,0 +1,29 @@
+/* ABSOLUTE POSITIONING */
+
+/* 
+---NORMAL FLOW---
+ *Default positioning
+ (Elementlerin sayfadaki varsayılan konumu)
+
+ *Element is in flow
+
+ * Elements are simply laid out according to their order in the HTML code
+
+
+ Default positioning  =  position: relative
+*/
+
+/* 
+ABSOLUTE POSITIONING
+(sayfanın herhangi bir yerinde öğeleri konumlandırma.)
+
+*Element is removed from the normal flow: "out of flow" 
+--Normal konumlandırmadan çıkarılan öğeye "out of flow" adı verilir
+
+*No impact on surrounding elements, might overlap them.
+(Çevredeki diğer elementler üzerindeki etkisini tamamen kaybeder.
+
+*We use top, bottom, left, or right to offset the element from its relatively positioned container
+
+
+*/
